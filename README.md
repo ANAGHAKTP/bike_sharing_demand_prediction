@@ -8,7 +8,7 @@ Accurate prediction of bike sharing demand can help urban planners and bike shar
 
 ## Dataset
 
-- *Source:* [Bike Sharing Dataset]([https://www.kaggle.com/c/bike-sharing-demand/data](https://github.com/ANAGHAKTP/bike_sharing_demand_prediction/blob/main/1730285261-SeoulBikeData.csv))
+- *Source:* [Bike Sharing Dataset](https://github.com/ANAGHAKTP/bike_sharing_demand_prediction/blob/main/1730285261-SeoulBikeData.csv)
 - *Description:* The dataset contains hourly rental data, weather information, and timestamp features.
 
 ## Features
